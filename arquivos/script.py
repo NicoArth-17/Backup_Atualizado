@@ -53,3 +53,5 @@ for archive in list01_pc:
                             sh.copytree(new_item, rf'D:\Python\{archive.name}\{item.name}\{new_item.name}')
 
 print('backup realizado com sucesso!')
+
+'AmbienteVirtual = mav'
